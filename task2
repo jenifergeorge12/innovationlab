@@ -19,7 +19,7 @@
     <input type="text" id="username" name="username" required><br><br>
     <label for="password">password:</label>
     <input type="passwowrd" id="password" name="password" required><br><br>
-    <button type="login">Login</button>
+    <button>Login</button>
     </form>
 </body>
 </html>
