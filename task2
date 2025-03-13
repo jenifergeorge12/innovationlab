@@ -8,16 +8,16 @@
 <body>
     <h1>Register Form</h1>
     <label for="name">name:</label>
-    <input type="text" id="name" name="name" required><br><br>
+    <input type="text" id="name" name="name" ><br><br>
     <label for="email">Email:</label>
-    <input type="email" id="email" required><br><br>
+    <input type="email" id="email" ><br><br>
     <label for="reg number">Reg number:</label>
-    <input type="reg number" id="reg number" required><br><br>
+    <input type="reg number" id="reg number" ><br><br>
     <h1>Login Form</h1>
     <label for="username">username:</label>
-    <input type="text" id="username" name="username" required><br><br>
+    <input type="text" id="username" name="username" ><br><br>
     <label for="password">password:</label>
-    <input type="passwowrd" id="password" name="password" required><br><br>
+    <input type="passwowrd" id="password" name="password" ><br><br>
     <button>Login</button>
 </body>
 </html>
