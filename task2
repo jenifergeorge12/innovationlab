@@ -13,6 +13,7 @@
     <input type="email" id="email" ><br><br>
     <label for="reg number">Reg number:</label>
     <input type="reg number" id="reg number" ><br><br>
+    <button>Register</button>
     <h1>Login Form</h1>
     <label for="username">username:</label>
     <input type="text" id="username" name="username" ><br><br>
