@@ -14,12 +14,10 @@
     <label for="reg number">Reg number:</label>
     <input type="reg number" id="reg number" required><br><br>
     <h1>Login Form</h1>
-    <form action="Login"></form>
     <label for="username">username:</label>
     <input type="text" id="username" name="username" required><br><br>
     <label for="password">password:</label>
     <input type="passwowrd" id="password" name="password" required><br><br>
     <button>Login</button>
-    </form>
 </body>
 </html>
